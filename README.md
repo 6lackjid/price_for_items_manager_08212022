@@ -1,0 +1,2 @@
+# price_for_items_manager_08212022
+価格の変動を記録・管理するアプリ
